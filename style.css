@@ -48,6 +48,7 @@ body * {
     width: fit-content;
     margin:auto;
     padding-top:52px;
+    padding-bottom:52px;
 }
 
 header {
