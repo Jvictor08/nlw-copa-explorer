@@ -5,6 +5,8 @@
 
 Projeto construido no evento next level week da Pocketseat
 
+**Projeto ainda recebendo ajustes**
+
 🔗[Clique aqui para acessar](https://jvictor08.github.io/nlw-copa-explorer/)
 
 ## 🛠 Tecnologias 
@@ -12,6 +14,8 @@ Projeto construido no evento next level week da Pocketseat
 * HTML
 
 * CSS 
+
+* JavaScript
 
 * GIT E Github
 

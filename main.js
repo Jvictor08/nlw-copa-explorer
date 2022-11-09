@@ -7,11 +7,21 @@ function toYellow(){
 } 
     
 function toBlue(){
-    document.getElementById('corpo').classList.add("blue");
+    let cleanclass = document.getElementById('corpo')
+    let classe = cleanclass.classList.value
+       if(cleanclass.classList != ''){
+        cleanclass.classList.remove(`${classe}`)
+    }
+    cleanclass.classList.add("blue");
 }
 
 function toGreen(){
-    document.getElementById('corpo').classList.add("green");
+    let cleanclass = document.getElementById('corpo')
+    let classe = cleanclass.classList.value
+       if(cleanclass.classList != ''){
+        cleanclass.classList.remove(`${classe}`)
+    }
+    cleanclass.classList.add("green");
 }
 
 function createGame (player1, hour, player2) {
