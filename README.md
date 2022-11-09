@@ -2,7 +2,6 @@
 
 ![preview](./.github/preview.png)
 
->Trilha Explorer
 
 Projeto construido no evento next level week da Pocketseat
 

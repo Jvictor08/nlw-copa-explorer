@@ -21,7 +21,6 @@ function createGame (player1, hour, player2) {
         <strong>${hour}</strong>
         <img src="./assets/icon-${player2}.svg" alt="Bandeira ${player2}">
     </li>
-    
     `
 }
 
